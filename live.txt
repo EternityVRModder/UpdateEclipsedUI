@@ -1,0 +1,5 @@
+settings: Settings
+leaderboard: Leaderboard [<color=red>BETA</color>]
+credits: Game Credits
+profile: Profile
+version: VERSION: BETA
