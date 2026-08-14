@@ -1,3 +1,4 @@
+maintext: Hello, This is a beta test version of the new eclipsed UI, it lets you report people easier via leaderboard [<color=red>BETA</color>], see game credits and your profile showing your username, playfabid, playtime and your current code.\nTo Get Rid Of This Text, Just click on one of the categories to your left! The design is also in Beta, so expect changes.
 settings: Settings
 leaderboard: Leaderboard [<color=red>BETA</color>]
 credits: Game\nCredits
